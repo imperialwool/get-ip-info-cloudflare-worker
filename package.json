@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "get-location-from-ip",
+  "version": "1.0.0",
+  "description": "get info from ip",
+  "main": "worker.js",
+  "scripts": { },
+  "author": "imperialwool",
+  "license": "MIT"
+}
